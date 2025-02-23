@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!--====== Required meta tags ======-->
+  <meta charset="utf-8" />
+  <meta http-equiv="x-ua-compatible" content="ie=edge" />
+  <meta name="description" content="" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+  <!--====== Title ======-->
+  <title>Dempster Shafer|Tonsilitis</title>
+
+  <!--====== Favicon Icon ======-->
+  <link rel="shortcut icon" href="assets/dashboard/assets/images/favicon.svg" type="image/svg" />
+  <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+
+  <!--====== Bootstrap css ======-->
+  <link rel="stylesheet" href="assets/dashboard/assets/css/bootstrap.min.css" />
+
+  <!--====== Line Icons css ======-->
+  <link rel="stylesheet" href="assets/dashboard/assets/css/lineicons.css" />
+
+  <!--====== Tiny Slider css ======-->
+  <link rel="stylesheet" href="assets/dashboard/assets/css/tiny-slider.css" />
+
+  <!--====== gLightBox css ======-->
+  <link rel="stylesheet" href="assets/dashboard/assets/css/glightbox.min.css" />
+
+  <link rel="stylesheet" href="assets/dashboard/style.css" />
+</head>
+
+<body>
+
+  <!--====== NAVBAR NINE PART START ======-->
+
+  <section class="navbar-area navbar-nine">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <nav class="navbar navbar-expand-lg">
+            <a class="navbar-brand"  href="#">
+              <h5 style="color:#fff;" >SISTEM PAKAR</h5>
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNine"
+              aria-controls="navbarNine" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="toggler-icon"></span>
+              <span class="toggler-icon"></span>
+              <span class="toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse sub-menu-bar" id="navbarNine">
+              <ul class="navbar-nav me-auto">
+                <li class="nav-item">
+                  <a class="page-scroll active" href="#hero-area">Home</a>
+                </li>
+                <li class="nav-item">
+                  <a class="page-scroll" href="#penyakit">Daftar Penyakit</a>
+                </li>
+                <li class="nav-item">
+                  <a class="page-scroll" href="#informasi">Informasi Penyakit</a>
+                </li>
+                <li class="nav-item">
+                  <a class="page-scroll" href="#tentang">Tentang Aplikasi</a>
+                </li>
+              </ul>
+            </div>
+
+            <div class="navbar-btn d-none d-lg-inline-block">
+              <a class="menu-bar" href="#side-menu-left"><i class="lni lni-menu"></i></a>
+            </div>
+          </nav>
+          <!-- navbar -->
+        </div>
+      </div>
+      <!-- row -->
+    </div>
+    <!-- container -->
+  </section>
+
+  <!--====== NAVBAR NINE PART ENDS ======-->
+
+  <!--====== SIDEBAR PART START ======-->
+
+  <div class="sidebar-left">
+    <div class="sidebar-close">
+      <a class="close" href="#close"><i class="lni lni-close"></i></a>
+    </div>
+    <div class="sidebar-content">
+      <div class="sidebar-logo">
+        <h3>SISTEM PAKAR</h3>
+      </div>
+      <hr style="border: 50px">
+      <!-- logo -->
+      <div class="sidebar-menu">
+        <ul>
+          <li><a class="menu-title" href="admin/index.php">Login</a></li>
+        </ul>
+      </div>
+     
+      <!-- sidebar social -->
+    </div>
+    <!-- content -->
+  </div>
+  <div class="overlay-left"></div>
+
+  <!--====== SIDEBAR PART ENDS ======-->
+
+  <!-- Start header Area -->
+  <section id="hero-area" class="header-area header-eight">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-lg-6 col-md-12 col-12">
+          <div class="header-content">
+            <h2 style="color:#fff;">SELAMAT DATANG DI WEBSITE SISTEM PAKAR TONSILITIS</h2>
+            <br>
+            <h5 style="color:#fff;"align="justify">Aplikasi ini bertujuan untuk mendiagnosa awal penyakit tonsilitis dan cara mengatasi nya</h5>
+            </div>
+            <div class="button">
+              <a href="daftar_konsul.php" class="btn primary-btn">Mulai Konsultasi</a>
+              </a>
+            </div>
+        </div>
+        <div class="col-lg-6 col-md-12 col-12">
+          <div class="header-image">
+            <img src="https://www.grxstatic.com/4f3rgqwzdznj/7mMpElf8QgHN1b0Fyl0uGq/139bf0c0ec85e9949fdf1fb7b188243b/cropped_shot_neck_tonsils-1303978987.jpg?format=pjpg&auto=webp&width=704" alt="#" />
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End header Area -->
+
+  <!--====== ABOUT FIVE PART START ======-->
+
+  <section id="penyakit" class="about-area about-five">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-lg-5 col-12">
+          <div class="about-image-five">
+            <svg class="shape" width="106" height="134" viewBox="0 0 106 134" fill="none"
+              xmlns="http://www.w3.org/2000/svg">
+              <circle cx="1.66654" cy="1.66679" r="1.66667" fill="#DADADA" />
+              <circle cx="1.66654" cy="16.3335" r="1.66667" fill="#DADADA" />
+              <circle cx="1.66654" cy="31.0001" r="1.66667" fill="#DADADA" />
+              <circle cx="1.66654" cy="45.6668" r="1.66667" fill="#DADADA" />
+              <circle cx="1.66654" cy="60.3335" r="1.66667" fill="#DADADA" />
+              <circle cx="1.66654" cy="88.6668" r="1.66667" fill="#DADADA" />
+              <circle cx="1.66654" cy="117.667" r="1.66667" fill="#DADADA" />
+              <circle cx="1.66654" cy="74.6668" r="1.66667" fill="#DADADA" />
+              <circle cx="1.66654" cy="103" r="1.66667" fill="#DADADA" />
+              <circle cx="1.66654" cy="132" r="1.66667" fill="#DADADA" />
+              <circle cx="16.3333" cy="1.66679" r="1.66667" fill="#DADADA" />
+              <circle cx="16.3333" cy="16.3335" r="1.66667" fill="#DADADA" />
+              <circle cx="16.3333" cy="31.0001" r="1.66667" fill="#DADADA" />
+              <circle cx="16.3333" cy="45.6668" r="1.66667" fill="#DADADA" />
+              <circle cx="16.333" cy="60.3335" r="1.66667" fill="#DADADA" />
+              <circle cx="16.333" cy="88.6668" r="1.66667" fill="#DADADA" />
+              <circle cx="16.333" cy="117.667" r="1.66667" fill="#DADADA" />
+              <circle cx="16.333" cy="74.6668" r="1.66667" fill="#DADADA" />
+              <circle cx="16.333" cy="103" r="1.66667" fill="#DADADA" />
+              <circle cx="16.333" cy="132" r="1.66667" fill="#DADADA" />
+              <circle cx="30.9998" cy="1.66679" r="1.66667" fill="#DADADA" />
+              <circle cx="74.6665" cy="1.66679" r="1.66667" fill="#DADADA" />
+              <circle cx="30.9998" cy="16.3335" r="1.66667" fill="#DADADA" />
+              <circle cx="74.6665" cy="16.3335" r="1.66667" fill="#DADADA" />
+              <circle cx="30.9998" cy="31.0001" r="1.66667" fill="#DADADA" />
+              <circle cx="74.6665" cy="31.0001" r="1.66667" fill="#DADADA" />
+              <circle cx="30.9998" cy="45.6668" r="1.66667" fill="#DADADA" />
+              <circle cx="74.6665" cy="45.6668" r="1.66667" fill="#DADADA" />
+              <circle cx="31" cy="60.3335" r="1.66667" fill="#DADADA" />
+              <circle cx="74.6668" cy="60.3335" r="1.66667" fill="#DADADA" />
+              <circle cx="31" cy="88.6668" r="1.66667" fill="#DADADA" />
+              <circle cx="74.6668" cy="88.6668" r="1.66667" fill="#DADADA" />
+              <circle cx="31" cy="117.667" r="1.66667" fill="#DADADA" />
+              <circle cx="74.6668" cy="117.667" r="1.66667" fill="#DADADA" />
+              <circle cx="31" cy="74.6668" r="1.66667" fill="#DADADA" />
+              <circle cx="74.6668" cy="74.6668" r="1.66667" fill="#DADADA" />
+              <circle cx="31" cy="103" r="1.66667" fill="#DADADA" />
+              <circle cx="74.6668" cy="103" r="1.66667" fill="#DADADA" />
+              <circle cx="31" cy="132" r="1.66667" fill="#DADADA" />
+              <circle cx="74.6668" cy="132" r="1.66667" fill="#DADADA" />
+              <circle cx="45.6665" cy="1.66679" r="1.66667" fill="#DADADA" />
+              <circle cx="89.3333" cy="1.66679" r="1.66667" fill="#DADADA" />
+              <circle cx="45.6665" cy="16.3335" r="1.66667" fill="#DADADA" />
+              <circle cx="89.3333" cy="16.3335" r="1.66667" fill="#DADADA" />
+              <circle cx="45.6665" cy="31.0001" r="1.66667" fill="#DADADA" />
+              <circle cx="89.3333" cy="31.0001" r="1.66667" fill="#DADADA" />
+              <circle cx="45.6665" cy="45.6668" r="1.66667" fill="#DADADA" />
+              <circle cx="89.3333" cy="45.6668" r="1.66667" fill="#DADADA" />
+              <circle cx="45.6665" cy="60.3335" r="1.66667" fill="#DADADA" />
+              <circle cx="89.3333" cy="60.3335" r="1.66667" fill="#DADADA" />
+              <circle cx="45.6665" cy="88.6668" r="1.66667" fill="#DADADA" />
+              <circle cx="89.3333" cy="88.6668" r="1.66667" fill="#DADADA" />
+              <circle cx="45.6665" cy="117.667" r="1.66667" fill="#DADADA" />
+              <circle cx="89.3333" cy="117.667" r="1.66667" fill="#DADADA" />
+              <circle cx="45.6665" cy="74.6668" r="1.66667" fill="#DADADA" />
+              <circle cx="89.3333" cy="74.6668" r="1.66667" fill="#DADADA" />
+              <circle cx="45.6665" cy="103" r="1.66667" fill="#DADADA" />
+              <circle cx="89.3333" cy="103" r="1.66667" fill="#DADADA" />
+              <circle cx="45.6665" cy="132" r="1.66667" fill="#DADADA" />
+              <circle cx="89.3333" cy="132" r="1.66667" fill="#DADADA" />
+              <circle cx="60.3333" cy="1.66679" r="1.66667" fill="#DADADA" />
+              <circle cx="104" cy="1.66679" r="1.66667" fill="#DADADA" />
+              <circle cx="60.3333" cy="16.3335" r="1.66667" fill="#DADADA" />
+              <circle cx="104" cy="16.3335" r="1.66667" fill="#DADADA" />
+              <circle cx="60.3333" cy="31.0001" r="1.66667" fill="#DADADA" />
+              <circle cx="104" cy="31.0001" r="1.66667" fill="#DADADA" />
+              <circle cx="60.3333" cy="45.6668" r="1.66667" fill="#DADADA" />
+              <circle cx="104" cy="45.6668" r="1.66667" fill="#DADADA" />
+              <circle cx="60.333" cy="60.3335" r="1.66667" fill="#DADADA" />
+              <circle cx="104" cy="60.3335" r="1.66667" fill="#DADADA" />
+              <circle cx="60.333" cy="88.6668" r="1.66667" fill="#DADADA" />
+              <circle cx="104" cy="88.6668" r="1.66667" fill="#DADADA" />
+              <circle cx="60.333" cy="117.667" r="1.66667" fill="#DADADA" />
+              <circle cx="104" cy="117.667" r="1.66667" fill="#DADADA" />
+              <circle cx="60.333" cy="74.6668" r="1.66667" fill="#DADADA" />
+              <circle cx="104" cy="74.6668" r="1.66667" fill="#DADADA" />
+              <circle cx="60.333" cy="103" r="1.66667" fill="#DADADA" />
+              <circle cx="104" cy="103" r="1.66667" fill="#DADADA" />
+              <circle cx="60.333" cy="132" r="1.66667" fill="#DADADA" />
+              <circle cx="104" cy="132" r="1.66667" fill="#DADADA" />
+            </svg>
+            <img src="https://akcdn.detik.net.id/community/media/visual/2016/05/26/f0a2943a-51bc-4862-945e-f3abc823766d_43.jpg?w=250&q="/>
+          </div>
+        </div>
+        <div class="col-lg-7 col-12">
+          <div class="about-five-content">
+            <h6 class="small-title text-lg">Jenis Penyakit</h6>
+            <h3 class="main-title fw-bold">Ada 3 jenis penyakit Tonsilitis, yaitu:</h3>
+            <div class="about-five-tab">
+              <nav>
+                <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                  <button class="nav-link active" id="nav-who-tab" data-bs-toggle="tab" data-bs-target="#nav-who"
+                    type="button" role="tab" aria-controls="nav-who" aria-selected="true">Tonsilitis akut</button>
+                  <button class="nav-link" id="nav-vision-tab" data-bs-toggle="tab" data-bs-target="#nav-2"
+                    type="button" role="tab" aria-controls="nav-vision" aria-selected="false">Tonsilitis kronis</button>
+                  <button class="nav-link" id="nav-vision-tab" data-bs-toggle="tab" data-bs-target="#nav-3"
+                    type="button" role="tab" aria-controls="nav-3" aria-selected="false">Tonsilitis Berulang</button>  
+                </div>
+              </nav>
+              <div class="tab-content" id="nav-tabContent">
+                <div class="tab-pane fade show active" id="nav-who" role="tabpanel" aria-labelledby="nav-who-tab">
+                  <p>Tonsilitis akut merupakan peradangan tonsil yang keluhannya dirasakan kurang dari 10 hari</p>
+                </div>
+                <div class="tab-pane fade" id="nav-2" role="tabpanel" aria-labelledby="nav-vision-tab">
+                  <p>Tonsilitis kronis merupakan peradangan tonsil yang keluhannya dirasakan lebih dari 10 hari</p>
+                </div>
+                <div class="tab-pane fade" id="nav-3" role="tabpanel" aria-labelledby="nav-vision-tab">
+                  <p>Tonsilitis kronis merupakan peradangan tonsil yang keluhannya dirasakan 5-7 kali dalam satu tahun</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- container -->
+  </section>
+  <!-- Start Cta Area -->
+  <section id="informasi" class="call-action">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-xxl-6 col-xl-7 col-lg-8 col-md-9">
+          <div class="inner-content">
+            <h2>Informasi Penyakit <br/>Tonsilitis</h2>
+            <p align="justify">Tonsil atau yang biasa kita kenal dengan amandel yaitu kumpulan jaringan limfoid yang terdapat pada kerongkongan bagian belakang kedua ujung lipatan mulut. Tonsil berfungsi sebagai pencegah agar infeksi tidak menyebar keseluruh tubuh dengan menahan kuman memasuki tubuh melalui mulut, hidung, dan kerongkongan, maka akan terjadi peradangan tonsil atau amandel yang disebut dengan Tonsilitis</p>
+            <br>
+            <p align="justify">World Health Organization (WHO) tidak mengeluarkan data mengenai jumlah kasus tonsilitis di dunia, namun WHO memperkirakan sekitar 287.000 anak dibawah 15 tahun mengalami tonsilektomi dengan atau tanpa adenoidektomi, 248.000 (86,4 %) mengalami tonsiloadenoidektomi dan 39.000 (13,6 %) lainnya menjalani tonsilektomi</p>
+            <br>
+            <p align="justify">Sedangkan berdasarkan data dari Departemen Kesehatan RI, angka kejadian penyakit tonsilitis di Indonesia sebanyak 23%. Berdasarkan data epidemiologi penyakit THT di tujuh provinsi di Indonesia pada bulan September tahun 2012, tonsilitis jenis kronik tertinggi setelah nasofaringitis akut yaitu sebesar 3,8%
+            <br>
+            <p align="justify">Tonsilitis merupakan salah satu penyakit THT (Telinga Hidung & Tenggorokan) peradangan yang terjadi akibat rangsangan fisik, kimiawi maupun immunologi. Terdapat klasifikasi Tonsilitis berdasarkan etiologi dan manifestasi klinis yaitu tonsilitis akut, Tonsilitis membranosa dan tonsilitis kronik</p>
+            </p>    
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End Cta Area -->
+  <!--====== ABOUT FIVE PART ENDS ======-->
+  <!-- Start tentang  Area -->
+  <section id="tentang" class="pricing-area pricing-fourteen">
+    <!--======  Start Section Title Five ======-->
+    <div class="section-title-five">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <div class="content">
+              <h6>Tentang aplikasi</h6>
+              <p align="center">
+              Sistem Pakar (Expert System) adalah sistem berbasis pengetahuan yang mempunyai keterkaitan dengan Kecerdasan Buatan atau Artificial Intelligence dan dapat diartikan sebagai perangkat lunak intensif pengetahuan yang dapat melakukan beberapa tugas yang biasanya membutuhkan keahlian manusia. Sistem Pakar digunakan untuk memecahkan suatu masalah tertentu yang ditentukan oleh seorang pakar secara professional, sehingga berperilaku sebagai sebuah sistem penasehat buatan dalam domain tertentu
+              </p>
+              <br>
+              <br>
+              <br>
+            </div>
+          </div>
+        </div>
+        <!-- row -->
+      </div>
+      <!-- container -->
+    </div>
+    <!-- Start Footer Area -->
+  <footer class="footer-area footer-eleven">
+    <!-- Start Footer Top -->
+    <div class="footer-top">
+      <div class="container">
+        <div class="inner-content">
+          <div class="row">
+            <div class="col-lg-3 col-md-6 col-12">
+              <!-- Single Widget -->
+              <div class="footer-widget f-about"> 
+                <h5>"Sehat itu murah, tetapi menjadi mahal ketika sehat telah berubah menjadi sakit"</h5>
+                <p class="copyright-text">
+                  <span>©2023 <a href="https://www.instagram.com/dicky_whyd25/" rel="nofollow"> Dickywe </a></span>
+                  
+                </p>
+              </div>
+              <!-- End Single Widget -->
+            </div>
+            <div class="col-lg-2 col-md-6 col-12">
+              <!-- Single Widget -->
+              <div class="footer-widget f-link">
+                <h5>Menu</h5>
+                <ul>
+                  <li><a href="#hero-area">Home</a></li>
+                  <li><a href="#penyakit">Daftar Penyakit</a></li>
+                  <li><a href="#informasi">Informasi Penyakit</a></li>
+                  <li><a href="#tentang">Tentang Aplikasi</a></li>
+                </ul>
+              </div>
+              <!-- End Single Widget -->
+            </div>
+            <div class="col-lg-2 col-md-6 col-12">
+              <!-- Single Widget -->
+              <div class="footer-widget f-link">
+                <h5>Support</h5>
+                <ul>
+                  <li><a href="https://hellosehat.com/">hellosehat</a></li>
+                  <li><a href="https://www.halodoc.com/">alodoc</a></li>
+                  <li><a href="https://www.alodokter.com/">alodokter</a></li>
+                  <li><a href="https://www.klikdokter.com/">klikdokter</a></li>
+                </ul>
+              </div>
+              <!-- End Single Widget -->
+            </div>
+            <div class="col-lg-5 col-md-6 col-12">
+              <!-- Single Widget -->
+              <div class="footer-widget newsletter">
+                <h5>More Info:</h5>
+                <p>Anda bisa langsung konsultasi atau periksa ke</p> <br>
+                <ul>
+                <li>
+                <i class='bx bx-user'> dr. Nanda Wiguna Tyndiansyah</i></li>
+               <li> <i class='bx bx-location-plus'> Jl. Ki Gede Mayung, Sirnabaya, Kec. Gunungjati, Kabupaten Cirebon, Jawa Barat 45151</i></li>
+               <a target="_blank" href="https://www.google.com/maps/place/dr+nanda+wiguna/@-6.6509378,108.5259745,17z/data=!3m1!4b1!4m6!3m5!1s0x2e6ee35028f73801:0xd0341081b8c4c858!8m2!3d-6.6509431!4d108.5281632!16s%2Fg%2F11rq5q_nsy">Menuju Lokasi</a> 
+              </ul>              
+              </div>
+              <!-- End Single Widget -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--/ End Footer Top -->
+  </footer>
+  <!--/ End Footer Area -->
+
+
+	<!-- <div class="made-in-ayroui mt-4">
+		<a href="https://ayroui.com" target="_blank" rel="nofollow">
+		  <img style="width:220px" src="assets/dashboard/assets/images/ayroui.svg">
+		</a>
+	</div> -->
+
+  <a href="#" class="scroll-top btn-hover">
+    <i class="lni lni-chevron-up"></i>
+  </a>
+
+  <!--====== js ======-->
+  <script src="assets/dashboard/assets/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/dashboard/assets/js/glightbox.min.js"></script>
+  <script src="assets/dashboard/assets/js/main.js"></script>
+  <script src="assets/dashboard/assets/js/tiny-slider.js"></script>
+
+  <script>
+
+    //===== close navbar-collapse when a  clicked
+    let navbarTogglerNine = document.querySelector(
+      ".navbar-nine .navbar-toggler"
+    );
+    navbarTogglerNine.addEventListener("click", function () {
+      navbarTogglerNine.classList.toggle("active");
+    });
+
+    // ==== left sidebar toggle
+    let sidebarLeft = document.querySelector(".sidebar-left");
+    let overlayLeft = document.querySelector(".overlay-left");
+    let sidebarClose = document.querySelector(".sidebar-close .close");
+
+    overlayLeft.addEventListener("click", function () {
+      sidebarLeft.classList.toggle("open");
+      overlayLeft.classList.toggle("open");
+    });
+    sidebarClose.addEventListener("click", function () {
+      sidebarLeft.classList.remove("open");
+      overlayLeft.classList.remove("open");
+    });
+
+    // ===== navbar nine sideMenu
+    let sideMenuLeftNine = document.querySelector(".navbar-nine .menu-bar");
+
+    sideMenuLeftNine.addEventListener("click", function () {
+      sidebarLeft.classList.add("open");
+      overlayLeft.classList.add("open");
+    });
+
+    //========= glightbox
+    GLightbox({
+      'href': 'https://www.youtube.com/watch?v=r44RKWyfcFw&fbclid=IwAR21beSJORalzmzokxDRcGfkZA1AtRTE__l5N4r09HcGS5Y6vOluyouM9EM',
+      'type': 'video',
+      'source': 'youtube', //vimeo, youtube or local
+      'width': 900,
+      'autoplayVideos': true,
+    });
+
+  </script>
+<script src="https://unpkg.com/boxicons@2.1.4/dist/boxicons.js"></script>
+</body>
+
+</html>
